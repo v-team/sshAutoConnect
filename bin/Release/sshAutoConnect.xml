@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<credentials>
+  <default>
+    <login>root</login>
+    <password>RVNYaS0xMjM0NTYr</password>
+  </default>
+  <custom_servers>
+    <server name="bsr-hwp15-esx04.bbs.aphp.fr">
+      <login>root</login>
+      <password>RVNYaS0xMjM0NTYr</password>
+    </server>
+  </custom_servers>
+</credentials>

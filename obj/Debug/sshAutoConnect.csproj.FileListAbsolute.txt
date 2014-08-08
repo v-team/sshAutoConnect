@@ -1,0 +1,11 @@
+C:\Users\aut9430\Documents\Visual Studio 2010\Projects\sshAutoConnect\sshAutoConnect\bin\Debug\sshAutoConnect.xml
+C:\Users\aut9430\Documents\Visual Studio 2010\Projects\sshAutoConnect\sshAutoConnect\bin\Debug\sshAutoConnect.dll
+C:\Users\aut9430\Documents\Visual Studio 2010\Projects\sshAutoConnect\sshAutoConnect\bin\Debug\sshAutoConnect.pdb
+C:\Users\aut9430\Documents\Visual Studio 2010\Projects\sshAutoConnect\sshAutoConnect\bin\Debug\VIPlugins2.dll
+C:\Users\aut9430\Documents\Visual Studio 2010\Projects\sshAutoConnect\sshAutoConnect\bin\Debug\VIPlugins2.pdb
+C:\Users\aut9430\Documents\Visual Studio 2010\Projects\sshAutoConnect\sshAutoConnect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aut9430\Documents\Visual Studio 2010\Projects\sshAutoConnect\sshAutoConnect\obj\Debug\sshAutoConnect.Properties.Resources.resources
+C:\Users\aut9430\Documents\Visual Studio 2010\Projects\sshAutoConnect\sshAutoConnect\obj\Debug\ResGen.read.1.tlog
+C:\Users\aut9430\Documents\Visual Studio 2010\Projects\sshAutoConnect\sshAutoConnect\obj\Debug\ResGen.write.1.tlog
+C:\Users\aut9430\Documents\Visual Studio 2010\Projects\sshAutoConnect\sshAutoConnect\obj\Debug\sshAutoConnect.dll
+C:\Users\aut9430\Documents\Visual Studio 2010\Projects\sshAutoConnect\sshAutoConnect\obj\Debug\sshAutoConnect.pdb
