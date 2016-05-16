@@ -5,7 +5,7 @@
     <password>RVNYaS0xMjM0NTYr</password>
   </default>
   <custom_servers>
-    <server name="bsr-hwp15-esx04.bbs.aphp.fr">
+    <server name="esx01.vmdude.fr">
       <login>root</login>
       <password>RVNYaS0xMjM0NTYr</password>
     </server>
